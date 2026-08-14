@@ -1,20 +1,22 @@
 {
-    "title": "Test Song",
-    "artist": "Star Mania",
-    "bpm": 180,
-    "level": 10.0,
     "notes": [
-        {"time": 1000, "lane": 1},
-        {"time": 1500, "lane": 2},
-        {"time": 2000, "lane": 3},
-        {"time": 2500, "lane": 4},
-        {"time": 3000, "lane": 1},
-        {"time": 3250, "lane": 3},
-        {"time": 3500, "lane": 2},
-        {"time": 3750, "lane": 4},
-        {"time": 4250, "lane": 1},
-        {"time": 4500, "lane": 2},
-        {"time": 4750, "lane": 3},
-        {"time": 5000, "lane": 4}
+        {
+            "time": 1000,
+            "lane": 1
+        },
+        {
+            "time": 2000,
+            "lane": 2,
+            "duration": 1000
+        },
+        {
+            "time": 3500,
+            "lane": 3
+        },
+        {
+            "time": 4500,
+            "lane": 4,
+            "duration": 1500
+        }
     ]
 }
