@@ -1,10 +1,8 @@
 {
-    "id": "003",
     "title": "Grievous Lady",
     "artist": "TeamGrimoire vs Laur",
-    "difficulty": 3.56,
-    "difficultyName": "Kanon's Future",
-    "bpm": 210.0,
+    "bpm": 210,
+    "level": 3.56,
     "notes": [
         {
             "time": 1.282,
