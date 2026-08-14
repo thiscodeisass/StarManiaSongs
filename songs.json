@@ -18,7 +18,7 @@
         "title": "Grievous Lady",
         "artist": "Team Grimore vs Laur",
         "difficulty": 3.56,
-        "beatmap": "songs/003.json"
+        "beatmap": "songs/003.json",
         "music": "music/GrievousLady.mp3"
     }
 ]
