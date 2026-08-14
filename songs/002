@@ -1,0 +1,20 @@
+{
+    "title": "Test Song 2",
+    "artist": "Star Mania",
+    "bpm": 160,
+    "level": 12.5,
+    "notes": [
+        {"time": 1000, "lane": 4},
+        {"time": 1250, "lane": 3},
+        {"time": 1500, "lane": 2},
+        {"time": 1750, "lane": 1},
+        {"time": 2250, "lane": 1},
+        {"time": 2500, "lane": 3},
+        {"time": 2750, "lane": 2},
+        {"time": 3000, "lane": 4},
+        {"time": 3500, "lane": 1},
+        {"time": 3750, "lane": 4},
+        {"time": 4000, "lane": 2},
+        {"time": 4250, "lane": 3}
+    ]
+}
