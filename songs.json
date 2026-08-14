@@ -12,5 +12,13 @@
         "artist": "Star Mania",
         "difficulty": 12.5,
         "beatmap": "songs/002.json"
+    },
+     {
+        "id": "003",
+        "title": "Grievous Lady",
+        "artist": "Team Grimore vs Laur",
+        "difficulty": 3.56,
+        "beatmap": "songs/003.json"
+        "music": "music/GrievousLady.mp3"
     }
 ]
