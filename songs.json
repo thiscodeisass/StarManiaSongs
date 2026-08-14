@@ -1,0 +1,16 @@
+[
+    {
+        "id": "001",
+        "title": "Test Song",
+        "artist": "Star Mania",
+        "difficulty": 10.0,
+        "beatmap": "songs/001.json"
+    },
+    {
+        "id": "002",
+        "title": "Test Song 2",
+        "artist": "Star Mania",
+        "difficulty": 12.5,
+        "beatmap": "songs/002.json"
+    }
+]
