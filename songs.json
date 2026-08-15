@@ -5,7 +5,9 @@
         "artist": "Star Mania",
         "difficulty": 10.0,
         "beatmap": "songs/001.json",
-        "music": "music/TestSong.mp3"
+        "music": "music/TestSong.mp3",
+        "duration": 240
+
     },
     {
         "id": "002",
@@ -13,14 +15,16 @@
         "artist": "Star Mania",
         "difficulty": 12.5,
         "beatmap": "songs/002.json",
-        "music": "music/TestSong2.mp3"
+        "music": "music/TestSong2.mp3",
+        "duration": 240
     },
     {
-        "id": "003",
-        "title": "Grievous Lady",
-        "artist": "Team Grimore vs Laur",
-        "difficulty": 3.56,
-        "beatmap": "songs/003.json",
-        "music": "music/GrievousLady.mp3"
+    "id": "003",
+    "title": "Grievous Lady",
+    "artist": "Team Grimore vs Laur",
+    "difficulty": 3.56,
+    "beatmap": "songs/003.json",
+    "music": "music/GrievousLady.mp3",
+    "duration": 240
     }
 ]
